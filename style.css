@@ -17,13 +17,16 @@ nav{
 .thePhlogo{
   width: 400px;
   height:105px;
+ 
   background: url(image/theph.png) no-repeat;
+ 
 }
 .thePhlogo:hover{
   width: 400px;
   height:105px;
   background: url(image/thephwhite.png) no-repeat;
 }
+
 
 
 .focus{
@@ -187,7 +190,10 @@ article > h1{
       
       align-items:center;
     }
-      
+   
+     
+     
+   
     }
   
   
